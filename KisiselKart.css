@@ -1,0 +1,27 @@
+body {
+    background-image: url(Resimler/resim2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    background-color: rgb(75, 61, 61);
+    width: 600px;
+    height: 700px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.image {
+    width: 160px;
+    height: 170px;
+    border-radius: 50%;
+    display: grid;
+    margin: auto;
+}
+
+.text h1, h2, h3{
+    display: grid;
+    justify-content: center;
+
+}
